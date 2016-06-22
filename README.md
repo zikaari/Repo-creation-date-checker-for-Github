@@ -3,7 +3,7 @@ Chrome extension for checking repository creation date on Github
 
 ![preview](https://raw.githubusercontent.com/NeekSandhu/Repo-creation-date-checker-for-Github/master/preview.png "Preview")
 
-#[Available on Chrome Webstore](http://example.com/ "Go to chrome webstore")
+#[Available on Chrome Webstore](https://chrome.google.com/webstore/detail/repo-creation-date-checke/gmfnjoaiijannkmjppchbknjdghpmleg "Go to chrome webstore")
 
 
 #Get the Source
