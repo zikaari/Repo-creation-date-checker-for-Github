@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Repo creation date checker for Github",
-  "version": "1.0",    
+  "version": "1.0.1",    
   "description": "Check creation date and last updated date of repo's on Github.",
   "icons": {
     "16": "icons/icon16.png",
