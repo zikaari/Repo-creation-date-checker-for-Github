@@ -8,7 +8,7 @@
         
         var created_on = new Date(metaCreationTimestamp),
             updated_on = new Date(metaUpdatedTimestamp),
-            responseHtml = '<div style="float: right;margin-top: -31px;">' +
+            responseHtml = '<div style="float: right;">' +
                                 '<span class="ext-meta-container" title="' + created_on.toLocaleString() + '">' +
                                     '<span class="ext-meta-label">Created</span>' +
                                     '<span class="ext-meta-value">' + created_on.toLocaleDateString().replace(/\/+/g, "/") +'</span>' +
